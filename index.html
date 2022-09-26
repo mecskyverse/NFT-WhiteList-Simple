@@ -71,6 +71,7 @@
         proof = tree.getProof(leaf).map((x) => buf2hex(x.data));
         console.log(proof);
       }
+      //This function will show the leaf needed to verify the address
       function showLeaf() {
         const address = addresses[addresses.length - 1];
         const leaves = addresses.map((x) => keccak256(x));
