@@ -1,4 +1,5 @@
 ## NFT-WhiteList Dapp
+This project is winner of Atom Dao's Bounty you can check out more at atom-dao's github profile. 
 Go to Contracts.sol file and copy the file and paste it in Remix Ide
 ![image](https://user-images.githubusercontent.com/91150257/192331136-37914dc4-d3c4-46f9-afc1-f1ec9c8e4e76.png)
 
